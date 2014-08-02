@@ -1,0 +1,43 @@
+body {
+    background-color:black;
+}
+.body {
+    width:900px;
+    margin:0 auto;
+}
+
+.wrapper {
+    width:900px;
+}
+.content {
+    width:900px;
+}
+
+h1{
+    text-align:center;  
+    color:blue;
+}
+
+h2 {
+    text-align:center;
+    color:rgba(11,28,217,.7);
+}
+
+.timezones, .systems {
+    width:900px;
+    text-align:center;
+    color:rgba(19,131,242,.5);
+    background-color:rgba(33,33,31,.5);
+    font-size:1.3em;
+}
+
+table, td {
+    border:2px solid rgba(26,91,92,.1);
+    border-collapse:collapse;
+}
+
+button {
+    margin-top:15px;
+     margin-left:45%;
+}
+ 
